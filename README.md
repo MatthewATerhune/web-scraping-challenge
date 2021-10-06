@@ -41,7 +41,6 @@ Make sure to find the image url to the full size .jpg image.
 Make sure to save a complete url string for this image.
 
 
-
 Mars Facts
 
 
@@ -49,7 +48,6 @@ Visit the Mars Facts webpage here and use Pandas to scrape the table containing 
 
 
 Use Pandas to convert the data to a HTML table string.
-
 
 
 Mars Hemispheres
